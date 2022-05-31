@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aria
+# 👋 Hi, I’m Arpita
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything
 
